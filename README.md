@@ -23,7 +23,6 @@ Data features
 EDA involves using Pandas for data manipulation and Matplotlib and Seaborn for visualization.
   
   ## Models
-Evaluated models include:
 - Logistic Regression
 -  Decision Tree
 -  Random Forest
