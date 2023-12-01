@@ -31,6 +31,6 @@ EDA involves using Pandas for data manipulation and Matplotlib and Seaborn for v
 -   XGBoost
 
   ## Evaluation metrics
-  - ROC-AUC
-  - Confusion matric
+  - ROC AUC
+  - Confusion matrix
   
